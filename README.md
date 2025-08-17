@@ -70,11 +70,4 @@ The goal is to identify key factors influencing employee turnover and provide in
 
 ---
 
-## 🔮 Future Work
-- Build a **Predictive Model (Machine Learning)** to forecast attrition probability  
-- Add **employee satisfaction surveys** for deeper insights  
-- Automate data pipeline for real-time attrition monitoring  
-
----
-
 
