@@ -64,9 +64,9 @@ The goal is to identify key factors influencing employee turnover and provide in
 
 ---
 
-## 📸 Dashboard Preview
-Employee_Attrition_Analysis_Dashboard.jpg
- 
+## 📷 Dashboard Preview
+![Dashboard](Employee_Attrition_Analysis_Dashboard.jpg)
+
 
 ---
 
